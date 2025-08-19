@@ -1,8 +1,8 @@
-Hi, I’m Max
-- I’m interested in Gaming, reading, and Computer Hardware
-- I’m currently learning Software Engineering and .Net and Web development.
+Hi, I’m Max!
+- I’m interested in Gaming, Reading, and Computer Hardware
+- I’m currently learning C# and Unity development.
 - I’m looking to collaborate on pretty much anything. DM me!
-- how you can reach me: Message me on discord @Mæx#0001
+- Message me on Discord @Mæx#0001 if you need to reach me
 
 <!---
 joursnoirs/joursnoirs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
